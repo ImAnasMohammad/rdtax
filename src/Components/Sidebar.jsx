@@ -17,7 +17,7 @@ const Sidebar = ({ isOpen, currentView }) => {
 
     return (
         <div className="w-64 bg-indigo-900 text-white flex flex-col">
-            <div className="p-4 bg-white w-[90%] mt-5 m-auto flex items-center justify-center">
+            <div className="p-4 w-[90%] mt-5 m-auto flex items-center justify-center">
                 <img src="logo-bg-removed.png" width={'60%'}/>
             </div>
 
